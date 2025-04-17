@@ -1,1 +1,1 @@
-# Greedy_-
+# Greedy_Algorithm
